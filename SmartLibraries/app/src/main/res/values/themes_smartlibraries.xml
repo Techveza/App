@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="_SmartLibraries" parent="Theme.AppCompat.Light.NoActionBar">
+
+    <item name="android:editTextStyle">@style/EditTextSmartLibraries</item>
+
+      <item name="android:textColorHighlight">#9918a787</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewSmartLibraries</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxSmartLibraries</item>
+
+      <item name="android:buttonStyle">@style/ButtonSmartLibraries</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonSmartLibraries</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerSmartLibraries</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemSmartLibraries</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarSmartLibraries</item>
+
+  </style>
+
+</resources>

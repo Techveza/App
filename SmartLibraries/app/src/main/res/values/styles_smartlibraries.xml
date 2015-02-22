@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="EditTextSmartLibraries" parent="android:Widget.EditText">
+        <item name="android:background">@drawable/smartlibraries_edit_text_holo_dark</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    
+    <style name="TextViewSmartLibraries" parent="android:Widget.TextView">
+        <item name="android:textColor">#000000</item>
+    </style>
+
+    <style name="AutoCompleteTextViewSmartLibraries" parent="android:Widget.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/smartlibraries_list_selector_holo_dark</item>
+	  <item name="android:background">@drawable/smartlibraries_edit_text_holo_dark</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="CheckBoxSmartLibraries" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/smartlibraries_btn_check_holo_dark</item>
+  </style>
+
+  <style name="ButtonSmartLibraries" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/smartlibraries_btn_default_holo_dark</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+
+  <style name="ImageButtonSmartLibraries" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/smartlibraries_btn_default_holo_dark</item>
+  </style>
+
+  <style name="SpinnerSmartLibraries" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/smartlibraries_spinner_background_holo_dark</item>
+      <item name="android:dropDownSelector">@drawable/smartlibraries_list_selector_holo_dark</item>
+  </style>
+
+  <style name="SpinnerDropDownItemSmartLibraries" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/smartlibraries_btn_radio_holo_dark</item>
+  </style>
+  <style name="SeekBarSmartLibraries" parent="android:Widget.SeekBar">
+      <item name="android:progressDrawable">@drawable/smartlibraries_scrubber_progress_horizontal_holo_dark</item>
+      <item name="android:indeterminateDrawable">@drawable/smartlibraries_scrubber_progress_horizontal_holo_dark</item>
+      <item name="android:minHeight">13dip</item>
+      <item name="android:maxHeight">13dip</item>
+      <item name="android:thumb">@drawable/smartlibraries_scrubber_control_selector_holo_dark</item>
+      <item name="android:thumbOffset">16dip</item>
+      <item name="android:paddingLeft">16dip</item>
+      <item name="android:paddingRight">16dip</item>
+  </style>
+
+</resources>

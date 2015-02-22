@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="AutoCompleteTextViewSmartLibraries" parent="android:Widget.Holo.AutoCompleteTextView">
+      <item name="android:dropDownSelector">@drawable/smartlibraries_list_selector_holo_dark</item>
+	    <item name="android:background">@drawable/smartlibraries_edit_text_holo_dark</item>
+  </style>
+
+  <style name="ButtonSmartLibraries" parent="android:Widget.Holo.Button">
+	  <item name="android:background">@drawable/smartlibraries_btn_default_holo_dark</item>
+  </style>
+
+  <style name="ImageButtonSmartLibraries" parent="android:Widget.Holo.ImageButton">
+	  <item name="android:background">@drawable/smartlibraries_btn_default_holo_dark</item>
+  </style>
+
+  <style name="SpinnerSmartLibraries" parent="android:Widget.Holo.Spinner">
+      <item name="android:background">@drawable/smartlibraries_spinner_background_holo_dark</item>
+      <item name="android:dropDownSelector">@drawable/smartlibraries_list_selector_holo_dark</item>
+  </style>
+
+  <style name="SeekBarSmartLibraries" parent="android:Widget.Holo.SeekBar">
+      <item name="android:progressDrawable">@drawable/smartlibraries_scrubber_progress_horizontal_holo_dark</item>
+      <item name="android:indeterminateDrawable">@drawable/smartlibraries_scrubber_progress_horizontal_holo_dark</item>
+      <item name="android:thumb">@drawable/smartlibraries_scrubber_control_selector_holo_dark</item>
+  </style>
+
+</resources>

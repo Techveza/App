@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="SmartLibraries" parent="Theme.AppCompat">
+
+    <item name="android:editTextBackground">@drawable/smartlibraries_edit_text_holo_dark</item>
+
+    <item name="android:textColorHighlight">#9918a787</item>
+    <item name="android:textSelectHandleLeft">@drawable/smartlibraries_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/smartlibraries_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/smartlibraries_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewSmartLibraries</item>
+
+    <item name="android:listChoiceIndicatorMultiple">@drawable/smartlibraries_btn_check_holo_dark</item>
+
+    <item name="android:buttonStyle">@style/ButtonSmartLibraries</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonSmartLibraries</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerSmartLibraries</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarSmartLibraries</item>
+
+    <item name="android:fastScrollThumbDrawable">@drawable/smartlibraries_fastscroll_thumb_holo</item>
+
+  </style>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SmartLibraries</string>
+    <string name="search">Search</string>
+    <string name="list_button">Show me</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_nearest_list">NearestList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ficha">ficha</string>
+    <string name="button_more">Show more</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+
+</resources>
